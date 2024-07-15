@@ -19,6 +19,6 @@ IntelliJ, Visual Studio, Postman, Eclipse
 ## 📫 Where to Reach Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://markokaportfolio.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-oka/)
-markoka101@gmail.com
+[![Email Badge](https://img.shields.io/badge/Gmail-markoka101@gmail.com-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:markoka101@gmail.com)
 
 
