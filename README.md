@@ -2,7 +2,7 @@
 
 
 ##  Quick Introduction
-I'm a full stack developer living in Brooklyn, NY.
+I'm a full stack developer living in Brooklyn, NY. I am 26 years old and have been coding since my sophomore year in High School.
 
 
 ## 🛠 Skills
@@ -15,10 +15,11 @@ Git, Github, Hibernate, JPA, PostgreSQL
 ### Other Tools and Software
 IntelliJ, Visual Studio, Postman, Eclipse
 
-
 ## 📫 Where to Reach Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://markokaportfolio.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-oka/)
 [![Email Badge](https://img.shields.io/badge/Gmail-markoka101@gmail.com-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:markoka101@gmail.com)
+
+## Please reach out if you'd like to discuss a project or simply chat!
 
 
