@@ -11,7 +11,7 @@ Java, JavaScript, HTML/CSS, SQL, C++
 ### Frameworks and Libraries
 Spring Boot, Node, Express, React, Tailwind
 ### Database and Industry Tools
-Git, Github, Hibernate, JPA, PostgreSQL
+Git, Github, Hibernate, JPA, PostgreSQL, Docker
 ### Other Tools and Software
 IntelliJ, Visual Studio, Postman, Eclipse
 
