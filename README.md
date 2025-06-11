@@ -9,7 +9,7 @@ I'm a full stack developer living in Brooklyn, NY. I am 26 years old and have be
 ### Programming Languages
 Java, JavaScript, HTML/CSS, SQL, C++
 ### Frameworks and Libraries
-Spring Boot, Node, Express, React, Tailwind
+Spring Boot, Node, Express, React, Tailwind, Vite
 ### Database and Industry Tools
 Git, Github, Hibernate, JPA, PostgreSQL, Docker
 ### Other Tools and Software
