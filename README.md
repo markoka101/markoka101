@@ -2,12 +2,12 @@
 
 
 ##  Quick Introduction
-I'm a full stack developer living in Brooklyn, NY. I am 26 years old and have been coding since my sophomore year in High School.
+I'm a full stack developer living in Brooklyn, NY. I am 27 years old and have been coding since my sophomore year in High School.
 
 
 ## 🛠 Skills
 ### Programming Languages
-Java, JavaScript, HTML/CSS, SQL, C++
+Java, JavaScript, TypeScript, HTML/CSS, SQL
 ### Frameworks and Libraries
 Spring Boot, Node, Express, React, Tailwind, Vite
 ### Database and Industry Tools
