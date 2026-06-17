@@ -2,7 +2,7 @@
 
 
 ##  Quick Introduction
-I'm a full stack developer living in Brooklyn, NY. I am 27 years old and have been coding since my sophomore year in High School.
+I'm a full stack developer living in Brooklyn, NY. I am 28 years old and have been coding since my sophomore year in High School.
 
 
 ## 🛠 Skills
@@ -13,7 +13,7 @@ Spring Boot, Node, Express, React, Tailwind, Vite
 ### Database and Industry Tools
 Git, Github, Hibernate, JPA, PostgreSQL, Docker
 ### Other Tools and Software
-IntelliJ, Visual Studio, Postman, Eclipse
+IntelliJ, Visual Studio, Postman, Eclipse, Claude, Perplexity, Copilot
 
 ## 📫 Where to Reach Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://markokaportfolio.com/)
